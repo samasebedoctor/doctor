@@ -1,7 +1,7 @@
 <template>
     <header class="header">
         <div class="container">
-            <div class="left">
+            <div>
                 <g-link :to="{ name: 'home' }" class="home-link">
                     <img 
                         src="../../static/logo.png"
