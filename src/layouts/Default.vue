@@ -59,8 +59,8 @@ h1 {
 
 .container {
   max-width: 1200px;
-  margin: 0 auto;
-  padding: 0 2rem;
+  margin: 0 0;
+  padding: 0 0rem;
 }
 
 @media (min-width: 860px) {
