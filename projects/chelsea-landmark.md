@@ -1,12 +1,10 @@
 ---
 date: 2019-05-16
 year: 2019
-title: Banana
+title: О чем курс
 category: Identity
-thumbnail: "/uploads/19.jpg"
-categories:
-- photography
-- pink
+thumbnail: "/uploads/курс омоложения.png"
+categories: []
 project_bg_color: ''
 project_fg_color: ''
 
