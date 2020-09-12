@@ -54,7 +54,7 @@ export default {
     height: 7rem;
 }
 .site-name {
-    font-size: 0.9rem;
+    font-size: 0.5rem;
     font-weight: 700;
     letter-spacing: 0.05em;
     text-decoration: none;
