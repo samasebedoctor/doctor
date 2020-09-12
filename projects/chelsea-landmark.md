@@ -3,7 +3,7 @@ date: 2019-05-16
 year: 2019
 title: Banana
 category: Identity
-thumbnail: "/uploads/mike-dorner-173502-unsplash.jpg"
+thumbnail: "/uploads/19.jpg"
 categories:
 - photography
 - pink
@@ -11,6 +11,32 @@ project_bg_color: ''
 project_fg_color: ''
 
 ---
-The **banana** fruits grow from a **banana** blossom in hanging clusters, also called a bunch or **banana** stem. The fruits grow in rows called tiers or hands. There can be as many as twenty fruits to a hand, and as many as twenty tiers in a bunch. A bunch usually weighs between 30 and 50 kilograms (65 to 110 pounds).
+![](/uploads/19.jpg)
 
-![](/uploads/mike-dorner-173502-unsplash.jpg)
+\- Очищение организма питанием
+
+\- Остеопатия лица на омоложение
+
+\- Особенный Массаж лица и тела
+
+\- Гимнастика для стройности тела
+
+\- Тренировки для мышечного тонуса
+
+\- Тейпирование лица и тела
+
+\- Дыхательная гимнастика
+
+\- Поднятие иммунитета
+
+\- Чистка от вирусов и бактерий
+
+\- Вакуум живота и Наули
+
+\- Рецепты, чек-листы, презентации, видео-инструкции,
+
+\- Анализы и многое другое💥
+
+\- Закрытый аккаунт Instagram
+
+\- 2 отдельных Чата в Telegram
