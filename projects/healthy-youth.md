@@ -1,10 +1,7 @@
 ---
-date: 2019-05-16
-year: 2019
 title: О чем курс
 category: Identity
 thumbnail: "/uploads/young.png"
-categories: []
 project_bg_color: ''
 project_fg_color: ''
 
