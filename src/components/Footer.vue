@@ -3,7 +3,21 @@
         <div class="container">
             <span v-html="settings.footer" />
         </div>
-        <!-- GetButton.io widget -->
+       
+    </footer>
+</template>
+
+<script>
+export default {
+    data() {
+        return {
+            settings: require("../../data/theme.json")
+        }
+    }
+}
+</script>
+
+ <!-- GetButton.io widget -->
 <script type="text/javascript">
     (function () {
         var options = {
@@ -21,18 +35,6 @@
     })();
 </script>
 <!-- /GetButton.io widget -->
-    </footer>
-</template>
-
-<script>
-export default {
-    data() {
-        return {
-            settings: require("../../data/theme.json")
-        }
-    }
-}
-</script>
 
 <style scoped>
 .footer {
