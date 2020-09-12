@@ -3,29 +3,29 @@
     <div class="container">
 
       <div class="contact-header">
-        <h1 class="contact-title">Say hi!</h1>
-        <p>Leave me a note with any questions you might have, I'll get back to you as soon as possible.</p>
+        <h1 class="contact-title">Отправить заявку на участие</h1>
+        <p>Если у Вас возникли какие-либо вопросы, свяжитесь со мной!</p>
       </div>
 
       <form class="contact-form" name="contact">
 
         <div class="sender-info">
           <div>
-            <label for="name" class="label">Your name</label>
+            <label for="name" class="label">Ваше имя:</label>
             <input type="text" name="name" />
           </div>
           <div>
-            <label for="email" class="label">Your email</label>
+            <label for="email" class="label">Ваш email</label>
             <input type="email" name="email" />
           </div>
         </div>
 
         <div class="message">
-          <label for="message" class="label">Message</label>
+          <label for="message" class="label">Сообщение</label>
           <textarea name="message"></textarea>
         </div>
 
-        <button class="button">Submit form</button>
+        <button class="button">Отправить</button>
 
       </form>
 
