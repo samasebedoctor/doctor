@@ -27,9 +27,6 @@ export default {
     }
   }
 }
-</script>
-<!-- GetButton.io widget -->
-<script type="text/javascript">
     (function () {
         var options = {
             whatsapp: "+79620136777", // WhatsApp number
@@ -44,8 +41,8 @@ export default {
         s.onload = function () { WhWidgetSendButton.init(host, proto, options); };
         var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
     })();
+
 </script>
-<!-- /GetButton.io widget -->
 
 <style scoped>
 .header {
