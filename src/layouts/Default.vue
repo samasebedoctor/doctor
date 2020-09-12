@@ -50,17 +50,13 @@ h1 {
 }
 
 .layout {
-  padding: 0;
-}
-
-.layout.sticky-header {
-  padding: 6rem 0 0 0;
+  padding: 0 auto;
 }
 
 .container {
   max-width: 1200px;
   margin: 0 0;
-  padding: 0 0rem;
+  padding: 0 2rem;
 }
 
 @media (min-width: 860px) {
