@@ -2,7 +2,7 @@
     <header class="header">
         <div class="container">
             <div>
-                <g-link :to="{ name: 'home' }" class="home-link">
+                <g-link style="padding:0px;margin:0px" :to="{ name: 'home' }" class="home-link">
                     <img 
                         src="../../static/logo.png"
                         :alt="settings.site_name" 
