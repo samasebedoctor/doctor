@@ -47,6 +47,8 @@ export default {
 }
 .logo {
     height: 7rem;
+    padding: 0;
+    margin: 0;
 }
 .site-name {
     font-size: 0.5rem;
