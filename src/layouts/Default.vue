@@ -50,12 +50,12 @@ h1 {
 }
 
 .layout {
-  padding: 0 auto;
+  padding: 0;
 }
 
 .container {
   max-width: 1200px;
-  margin: 0 0;
+  margin: 0 auto;
   padding: 0 2rem;
 }
 
