@@ -3,9 +3,7 @@
 
     <div class="container">
       <div class="journal-hero">
-        <h1 class="journal-header">
-          Гид омоложения
-        </h1>
+        <h1 class="journal-header">Гид омоложения</h1>
       </div>
     </div>
 
