@@ -2,8 +2,8 @@
     <header class="header">
         <div class="container">
             <div>
-                <g-link style="padding:0px;margin:0px" :to="{ name: 'home' }" class="home-link">
-                    <img style="padding:0px;margin:0px"
+                <g-link :to="{ name: 'home' }" class="home-link">
+                    <img 
                         src="../../static/logo.png"
                         :alt="settings.site_name" 
                         class="logo"
@@ -49,8 +49,7 @@ export default {
 }
 .logo {
     height: 7rem;
-    padding: 0px;
-    margin: 0px;
+    padding: 0.4rem 0 0 0;
 }
 .site-name {
     font-size: 0.5rem;
@@ -78,7 +77,5 @@ export default {
 }
 .nav > .active {
     border-color: inherit;
-    padding: 0px;
-    margin: 0px;
 }
 </style>
