@@ -1,5 +1,5 @@
 ---
-thumbnail: "/uploads/mirror.png"
+thumbnail: "/uploads/before-after.png"
 title: Добро пожаловать в мир красоты, молодости и здоровья!
 date: '2021-02-06'
 categories:
@@ -9,7 +9,7 @@ project_bg_color: ''
 project_fg_color: ''
 
 ---
-![](/uploads/mirror.png)
+![](/uploads/before-after.png)
 
 Чтобы выглядеть привлекательно девушки записываются на процедуры лазерной эпиляции, наращивания ногтей и ресниц, стрижки и укладки волос.
 
