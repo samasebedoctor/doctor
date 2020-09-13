@@ -4,7 +4,7 @@
     <div class="container">
       <div class="journal-hero">
         <h1 class="journal-header">
-          a wise person once said...
+          Гид омоложения
         </h1>
       </div>
     </div>
@@ -48,9 +48,8 @@ export default {
   max-width: 720px;
 }
 .journal-hero {
-  padding: 4rem 0;
+  padding: 2rem 0;
   text-align: center;
-  color: var(--color-base-1);
 }
 .journal-header {
   font-size: 2rem;
