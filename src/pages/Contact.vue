@@ -17,7 +17,7 @@
     <label>Сообщение:<textarea name="message"></textarea></label>
   </p>
   <p>
-    <button type="submit">Send</button>
+    <button type="submit" class="button">Отправить</button>
   </p>
 </form>
     </div>
