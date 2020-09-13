@@ -1,7 +1,7 @@
 ---
 title: О чем курс
 category: Identity
-thumbnail: "/uploads/retouch_03.jpg"
+thumbnail: "/uploads/web_03.webp"
 project_bg_color: ''
 project_fg_color: ''
 
