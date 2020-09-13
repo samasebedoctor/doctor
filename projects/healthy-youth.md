@@ -1,7 +1,7 @@
 ---
 title: Онлайн курс натурального омоложения без уколов
 category: Identity
-thumbnail: "/uploads/course_thumbnail.png"
+thumbnail: "/uploads/course.png"
 project_bg_color: ''
 project_fg_color: ''
 
