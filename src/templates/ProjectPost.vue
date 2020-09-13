@@ -44,11 +44,11 @@ export default {
 
 <style scoped>
 .project-header {
-  padding: 5vh 0 1vh 0;
+  padding: 5vh 0 0 0;
 }
 .project-title {
   font-size: 2rem;
-  margin: 0 0 2rem 0;
+  margin: 0 0 0 0;
   padding: 0;
 }
 .project-info {
