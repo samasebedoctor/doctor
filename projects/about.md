@@ -1,5 +1,6 @@
 ---
 thumbnail: "/uploads/before-after.png"
+category: Identity
 title: Обо мне
 project_bg_color: ''
 project_fg_color: ''
