@@ -1,12 +1,12 @@
 ---
 title: О чем курс
 category: Identity
-thumbnail: "/uploads/young.png"
+thumbnail: "/uploads/retouch_03.jpg"
 project_bg_color: ''
 project_fg_color: ''
 
 ---
-![](/uploads/young.png)
+![](/uploads/retouch_02.webp)
 
 \- Очищение организма питанием
 
