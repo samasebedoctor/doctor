@@ -3,7 +3,7 @@
     <div class="container">
 
       <div class="contact-header">
-        <h2 class="contact-title">Остался всего один шаг!</h2>
+        <h2 class="contact-title">Остался всего один шаг навстречу Вашей молодости!</h2>
         <p>Определите комфортный для Вас формат участия и жмите "Отправить"</p>
       </div>
 <iframe src="https://promo-money.ru/quickpay/shop-widget?writer=seller&targets=%D0%9C%D0%B0%D1%80%D0%B0%D1%84%D0%BE%D0%BD%20%22%D0%9E%D1%87%D0%B8%D1%89%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%BC%D0%B0%22%2C%201%20%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F&targets-hint=&default-sum=890&button-text=12&payment-type-choice=on&fio=on&phone=on&hint=&successURL=https%3A%2F%2Fsama-sebe-doctor.ml%2Fpayment-accepted%2F&quickpay=shop&account=410016189735528" width="100%" height="250" frameborder="0" allowtransparency="true" scrolling="no"></iframe>
