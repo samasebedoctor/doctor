@@ -44,9 +44,11 @@ export default {
 }
 .home-link {
     text-decoration: none;
+    padding: 0px;
+    margin: 0px;
 }
 .logo {
-    height: 35px;
+    height: 7rem;
     padding: 0px;
     margin: 0px;
 }
@@ -76,5 +78,7 @@ export default {
 }
 .nav > .active {
     border-color: inherit;
+    padding: 0px;
+    margin: 0px;
 }
 </style>
