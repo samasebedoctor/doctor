@@ -2,6 +2,7 @@
 title: Онлайн курс натурального омоложения без уколов
 category: Identity
 date: '2021-02-09'
+categories:
 thumbnail: "/uploads/course.png"
 project_bg_color: ''
 project_fg_color: ''
