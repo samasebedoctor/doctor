@@ -1,5 +1,5 @@
 ---
-title: Что будем делать на курсе
+title: Онлайн курс натурального омоложения без уколов
 category: Identity
 thumbnail: "/uploads/course_thumbnail.png"
 project_bg_color: ''
