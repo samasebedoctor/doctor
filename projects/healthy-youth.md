@@ -2,7 +2,7 @@
 title: Онлайн курс натурального омоложения без уколов
 date: '2021-02-09'
 categories:
-- identity
+- Sama Sebe Doctor
 thumbnail: "/uploads/course.png"
 project_bg_color: ''
 project_fg_color: ''
