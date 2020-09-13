@@ -1,18 +1,18 @@
 ---
 title: О чем курс
 category: Identity
-thumbnail: "/uploads/course_thumbnail.webp"
+thumbnail: "/uploads/course_thumbnail.png"
 project_bg_color: ''
 project_fg_color: ''
 
 ---
-![](/uploads/course.webp)
+![](/uploads/course.png)
 
 \- Очищение организма питанием
 
 \- Остеопатия лица на омоложение
 
-\- Особенный Массаж лица и тела
+\- Остео массаж лица и тела
 
 \- Гимнастика для стройности тела
 
