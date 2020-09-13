@@ -30,7 +30,6 @@ query Journal {
     edges {
       node {
         id
-        path
         title
         excerpt
       }
