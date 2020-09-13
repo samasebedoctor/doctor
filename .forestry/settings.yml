@@ -13,11 +13,10 @@ sections:
   - project
 - type: directory
   path: journal
-  label: Модули
+  label: Дневник
   create: documents
   match: "**/*.md"
   templates:
-  - journal
   - journal
 - type: document
   path: data/theme.json
