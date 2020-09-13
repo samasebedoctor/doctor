@@ -3,7 +3,7 @@
         <div class="container">
             <div>
                 <g-link style="padding:0px;margin:0px" :to="{ name: 'home' }" class="home-link">
-                    <img 
+                    <img style="padding:0px;margin:0px"
                         src="../../static/logo.png"
                         :alt="settings.site_name" 
                         class="logo"
