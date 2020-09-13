@@ -1,6 +1,7 @@
 ---
 thumbnail: "/uploads/before-after.png"
 category: Identity
+categories:
 date: '2020-02-07'
 title: Обо мне
 project_bg_color: ''
