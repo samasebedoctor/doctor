@@ -1,11 +1,12 @@
 ---
 title: О чем курс
 category: Identity
-thumbnail: ''
+thumbnail: "/uploads/course_thumbnail.webp"
 project_bg_color: ''
 project_fg_color: ''
 
 ---
+![](/uploads/course.webp)
 
 \- Очищение организма питанием
 
