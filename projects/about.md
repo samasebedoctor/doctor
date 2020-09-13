@@ -1,10 +1,6 @@
 ---
 thumbnail: "/uploads/before-after.png"
 title: Обо мне
-date: '2021-02-06'
-categories:
-- photography
-- blue
 project_bg_color: ''
 project_fg_color: ''
 
