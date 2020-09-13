@@ -2,11 +2,11 @@
 // Learn more: https://gridsome.org/docs/config
 
 module.exports = {
-  siteName: "Portfolio",
-  siteUrl: `https://www.itsnwa.com`,
+  siteName: "Омоложение как стиль жизни",
+  siteUrl: `https://sama-sebe-doctor.ml/`,
   host: "0.0.0.0",
-  titleTemplate: "%s - NWA",
-  siteDescription: "Creative technologist",
+  titleTemplate: "%s: омоложение как стиль жизни",
+  siteDescription: "Мы хотим быть красивыми и записываемся на регулярные процедуры лазерной эпиляции и наращивания ногтей,  упуская самое важное - необходимость омоложения организма изнутри. Уверенность в себе придет, когда мы начнем чувствовать себя и выглядеть моложе",
   plugins: [
     {
       use: "@gridsome/source-filesystem",
