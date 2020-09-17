@@ -23,6 +23,7 @@ sections:
 - type: document
   path: data/theme.json
   label: Главная страница
+  read_only: false
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
