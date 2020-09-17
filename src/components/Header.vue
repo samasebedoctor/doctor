@@ -11,7 +11,7 @@
                 </g-link>
             </div>
             <nav class="nav right">
-                <g-link class="nav__link" to="/journal">Дневник</g-link>
+                <g-link class="nav__link" to="/journal">Программа</g-link>
                 <g-link class="nav__link" to="/contact">Хочу к вам!</g-link>
             </nav>
         </div>
