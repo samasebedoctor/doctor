@@ -23,5 +23,6 @@ project_fg_color: ''
 Сейчас я получаю очное медицинское образование и регулярно прохожу специализированные профессиональные курсы в различных областях оздоровления, так как наш организм требует комплексного подхода.
 
 Приглашаю Вас идти вместе со мной, оздоравливаться, очищать свой организм, питаться просто и полезно, ухаживать за своим лицом и телом. Я возьму Вас за руку и поведу в мир новых привычек по пути естественного омоложения!
-
-<iframe width="100%" src="https://www.youtube.com/embed/rJmgB5SRlqU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%;">
+<iframe style="position: absolute;top: 0;left: 0;width: 100%;height: 100%;" src="https://www.youtube.com/embed/rJmgB5SRlqU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
