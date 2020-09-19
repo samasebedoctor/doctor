@@ -14,7 +14,7 @@
       class="journal-post"
     >
       <div class="container journal">
-        <h3 class="journal-title">{{ item.node.title }}</h3>
+        <h2 class="journal-title">{{ item.node.title }}</h2>
         <p class="journal-excerpt">{{ item.node.excerpt }}</p>
       </div>
     </g-link>
@@ -51,14 +51,14 @@ export default {
   text-align: center;
 }
 .journal-header {
-  font-size: 2rem;
-  font-weight: 700;
+  font-size: 1.5rem;
+  font-weight: 600;
   padding: 0;
   margin: 0;
 }
 .journal-post {
   display: block;
-  padding: 2rem 0;
+  padding: 1rem 0;
   text-decoration: none;
   transition: background 0.5s ease;
 }
