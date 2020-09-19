@@ -9,7 +9,7 @@
 
     <g-link 
       :to="item.node.path"
-      v-for="item in journals" 
+      v-for="item in $page.posts.edges" 
       :key="item.node.id"
       class="journal-post"
     >
@@ -30,6 +30,7 @@ query Journal {
         id
         title
         excerpt
+	path
       }
     }
   }
