@@ -47,11 +47,11 @@ export default {
   max-width: 720px;
 }
 .journal-hero {
-  padding: 2rem 0;
+  padding: 1.5rem 0;
   text-align: center;
 }
 .journal-header {
-  font-size: 1.5rem;
+  font-size: 2rem;
   font-weight: 600;
   padding: 0;
   margin: 0;
@@ -77,7 +77,7 @@ export default {
   padding: 0;
 }
 .journal-title {
-  font-size: 2rem;
+  font-size: 1.5rem;
   color: var(--color-contrast);
 }
 .journal-excerpt {
@@ -86,13 +86,13 @@ export default {
 
 @media (min-width: 560px) {
   .journal-post {
-    padding: 3rem 0;
+    padding: 2rem 0;
   }
 }
 
 @media (min-width: 860px) {
   .journal-post {
-    padding: 5rem 0;
+    padding: 3rem 0;
   }
 }
 </style>
