@@ -14,7 +14,7 @@
       class="journal-post"
     >
       <div class="container journal">
-        <h2 class="journal-title">{{ item.node.title }}</h2>
+        <h3 class="journal-title">{{ item.node.title }}</h3>
         <p class="journal-excerpt">{{ item.node.excerpt }}</p>
       </div>
     </g-link>
